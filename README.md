@@ -3,7 +3,7 @@
 
 
 ## 프로젝트 개요
-![Uploading image.png…]()
+![image](https://github.com/eogns47/Marine-Manager/assets/102205852/1a96daa9-4cad-430a-bb4a-ffd57bdf95e3)
 
 
 
