@@ -1,8 +1,9 @@
 # 스마트 항만 관리 시스템 **Mame**
-![image](https://github.com/eogns47/Mame-Web/assets/102205852/d43b46ae-fcf2-472f-bfc5-336cc297e94f)
+![image](https://github.com/eogns47/Marine-Manager/assets/102205852/faa05392-f135-467f-9fcd-2a06affd8bf7)
+
 
 ## 프로젝트 개요
-![image](https://github.com/eogns47/Mame-Web/assets/102205852/15359ec7-2a4d-433a-b295-f961e1df87a8)
+![Uploading image.png…]()
 
 
 
