@@ -6,7 +6,7 @@
 ![image](https://github.com/eogns47/Marine-Manager/assets/102205852/1a96daa9-4cad-430a-bb4a-ffd57bdf95e3)
 
 ## 웹 페이지 접속 방법
-url : 54.243.167.236:8080
+[url : 54.243.167.236:8080](http://54.243.167.236:8080/)
 
 
 ## TEAM
